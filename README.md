@@ -4,5 +4,5 @@ Saya adalah seorang yang terlalu biasa
 '''
 
 ## APPS
-Bebas lah asal sopan
+Bebas lah asal sopan Oceh!!
 
