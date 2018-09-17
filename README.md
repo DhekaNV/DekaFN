@@ -1,0 +1,2 @@
+# DekaFN
+Terlalu Biasa
