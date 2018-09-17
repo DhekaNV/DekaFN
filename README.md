@@ -1,2 +1,8 @@
 # DekaFN
-Jurusan Akomodasi Penumpang
+'''
+Saya adalah seorang yang terlalu biasa
+'''
+
+## APPS
+Bebas lah asal sopan
+
