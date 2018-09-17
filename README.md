@@ -1,2 +1,2 @@
 # DekaFN
-Terlalu Biasa
+Jurusan Akomodasi Penumpang
